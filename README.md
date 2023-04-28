@@ -30,17 +30,22 @@ To install and run the Hospital Management System API on your local machine, fol
 `https://github.com/webblyss/hospital_managment_api.git`
 
 2. Create a virtual environment:
-`python3 -m venv venv`
-`source venv/bin/activate`
+
+    `python3 -m venv venv`
+
+    `source venv/bin/activate`
 
 3. Install the dependencies:
-`pip install -r requirements.txt`
+
+    `pip install -r requirements.txt`
 
 4. Apply the database migrations:
-`python manage.py migrate`
+
+    `python manage.py migrate`
 
 5. Start the development server:
-`python manage.py runserver`
+
+    `python manage.py runserver`
 
 
 # Contributing
@@ -48,6 +53,7 @@ If you would like to contribute to the Hospital Management System API, please fo
 
 # FRONT END VIEW
 
+The frontend for the Hospital Management System API is built using React.js, a popular JavaScript library for building user interfaces. The frontend allows hospital staff to interact with the API, view patient data, and manage appointments and medical history.
 
 
 
