@@ -46,6 +46,10 @@ To install and run the Hospital Management System API on your local machine, fol
 5. Start the development server:
 
     `python manage.py runserver`
+    
+# IMAGES
+![Screenshot from 2023-04-28 03-44-12](https://user-images.githubusercontent.com/60282806/235224399-e35839a0-a7aa-4a15-809e-a0148ccfb7f7.png)
+
 
 
 # Contributing
