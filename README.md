@@ -27,7 +27,7 @@ To install and run the Hospital Management System API on your local machine, fol
 
 1. Clone the repository:
 
-`https://github.com/webblyss/hospital_managment_api.git`
+    `https://github.com/webblyss/hospital_managment_api.git`
 
 2. Create a virtual environment:
 
@@ -63,7 +63,7 @@ If you would like to contribute to the Hospital Management System API, please fo
 
 The frontend for the Hospital Management System API is built using React.js, a popular JavaScript library for building user interfaces. The frontend allows hospital staff to interact with the API, view patient data, and manage appointments and medical history.
 
-# IMAGE
+# FRONTEND IMAGES
 
 
 
