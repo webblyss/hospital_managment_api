@@ -53,6 +53,9 @@ To install and run the Hospital Management System API on your local machine, fol
 ![good](https://user-images.githubusercontent.com/60282806/235224562-7df5ccff-ca84-47e1-a275-cafa195a00ee.png)
 
 
+
+
+
 # Contributing
 If you would like to contribute to the Hospital Management System API, please fork the repository and submit a pull request with your changes. Before submitting a pull request, please make sure that your code passes the automated tests and adheres to the project's coding style and guidelines.
 
@@ -60,6 +63,7 @@ If you would like to contribute to the Hospital Management System API, please fo
 
 The frontend for the Hospital Management System API is built using React.js, a popular JavaScript library for building user interfaces. The frontend allows hospital staff to interact with the API, view patient data, and manage appointments and medical history.
 
+# IMAGE
 
 
 
