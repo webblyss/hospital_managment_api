@@ -63,8 +63,6 @@ If you would like to contribute to the Hospital Management System API, please fo
 
 The frontend for the Hospital Management System API is built using React.js, a popular JavaScript library for building user interfaces. The frontend allows hospital staff to interact with the API, view patient data, and manage appointments and medical history.
 
-# FRONTEND IMAGES
-
 
 
 
