@@ -50,6 +50,7 @@ To install and run the Hospital Management System API on your local machine, fol
 # IMAGES
 ![Screenshot from 2023-04-28 03-44-12](https://user-images.githubusercontent.com/60282806/235224399-e35839a0-a7aa-4a15-809e-a0148ccfb7f7.png)
 
+![good](https://user-images.githubusercontent.com/60282806/235224562-7df5ccff-ca84-47e1-a275-cafa195a00ee.png)
 
 
 # Contributing
