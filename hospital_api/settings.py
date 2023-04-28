@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'patient_registration',
     'OPD_',
-    'login_model'
+    'login_model',
+    'consultation'
 ]
 
 MIDDLEWARE = [
