@@ -12,7 +12,7 @@ WARD = (
 )
 
 class Consultation(models.Model):
-    patient_info = models.ForeignKey(OPD,on_delete=models.CASCADE)
+    opd_info = models.ForeignKey(OPD,on_delete=models.CASCADE)
     patient_complains = models.TextField()
     doctor_diagnosis = models.CharField(max_length=100)
     medication = models.CharField(max_length=500)
@@ -21,7 +21,7 @@ class Consultation(models.Model):
 
 
     def __str__(self) -> str:
-        return f'{self.patient_info.patient_info.first_name}'
+        return f'{self.patient_info.patient_info.firstName} - {self.doctor_diagnosis}'
 
 
 
