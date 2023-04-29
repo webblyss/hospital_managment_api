@@ -67,6 +67,8 @@ The frontend for the Hospital Management System API is built using React.js, a p
 patient registration page
 ![registration](https://user-images.githubusercontent.com/60282806/235258549-9320c72f-4379-498c-b183-07051567174f.png)
 
+display list of patient waiting to be consulted
+![consultation](https://user-images.githubusercontent.com/60282806/235283322-f511d833-4c86-4f01-8ed9-66018977eb23.png)
 
 
 
