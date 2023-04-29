@@ -18,7 +18,9 @@ class PatientRegistration(models.Model):
     age = models.PositiveIntegerField()
     date_of_birth = models.DateField() 
     NHIS = models.CharField(max_length=100)
+    vitals_checked = models.BooleanField(default=False)
     gender = models.CharField(max_length=50, choices=GENDER_CHOICES)
+    date = models.DateTimeField(auto_now_add=True)
     
     
     
