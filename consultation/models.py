@@ -21,7 +21,7 @@ class Consultation(models.Model):
 
 
     def __str__(self) -> str:
-        return f'{self.patient_info.patient_info.firstName} - {self.doctor_diagnosis}'
+        return f'{self.opd_info.patient_info.firstName} - {self.doctor_diagnosis}'
 
 
 
