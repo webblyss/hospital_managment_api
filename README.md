@@ -70,6 +70,9 @@ patient registration page
 display list of patient waiting to be consulted
 ![consultation](https://user-images.githubusercontent.com/60282806/235283322-f511d833-4c86-4f01-8ed9-66018977eb23.png)
 
+Dashboard
+
+![dash](https://user-images.githubusercontent.com/60282806/235326787-5a919647-cd50-4f8b-8582-2acaf2c39644.png)
 
 
 
